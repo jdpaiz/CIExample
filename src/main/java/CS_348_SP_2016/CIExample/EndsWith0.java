@@ -6,13 +6,15 @@ public class EndsWith0 {
 
 	public EndsWith0()  {
 		names = "";
-		// add your name here in the form of a line that looks like:
+		names += "Xavier Giles\n";
+		// add your name here in the form of a line that looks 
+		//like
 		// names+= "John Smith\n"
 	}
 
 	@Override
 	public String toString() {
-		return "EndsWith0 [names=" + names + "]";
+		return "EndsWith0 [names= "+ names +"]";
 	}
 
 }
