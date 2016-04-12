@@ -9,6 +9,7 @@ public class EndsWith2 {
 		// add your name here in the form of a line that looks like:
 		// names+= "John Smith\n";
 		names+= "Karl Wurst\n";
+		names+= "Loukas Mironidis\n";
 	}
 
 	@Override
