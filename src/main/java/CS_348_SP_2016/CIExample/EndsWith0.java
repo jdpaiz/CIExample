@@ -8,6 +8,7 @@ public class EndsWith0 {
 		names = "";
 		names += "Xavier Giles\n";
 		names += "Ryan Murphy\n";
+		names += "Danny Barbara\n";
 		// add your name here in the form of a line that looks like:
 		// names+= "John Smith\n"
 	}
