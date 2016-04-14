@@ -10,6 +10,7 @@ public class EndsWith2 {
 		// names+= "John Smith\n";
 		names+= "Karl Wurst\n";
 		names+= "Loukas Mironidis\n";
+		names+= "Saif Jweda\n";
 	}
 
 	@Override
