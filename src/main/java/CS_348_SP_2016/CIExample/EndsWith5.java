@@ -7,6 +7,7 @@ public class EndsWith5 {
 	public EndsWith5()  {
 		names = "";
 		names += "Daniel Mahoney\n";
+		names += "Kyle Polewaczyk\n";
 		// add your name here in the form of a line that looks like:
 		// names+= "John Smith\n";
 	}
